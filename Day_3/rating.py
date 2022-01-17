@@ -1,4 +1,4 @@
-with open("input.txt", "r") as f:
+with open("testinput.txt", "r") as f:
     data = f.readlines()
 print(len(data))
 
